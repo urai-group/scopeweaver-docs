@@ -1,0 +1,14 @@
+title: SCOPEWEAVER DOCUMENTATION
+description: Use this website to document the design and implementation of Scopeweaver project
+theme: just-the-docs
+
+url: https://urai-group.github.io/scopeweaver-docs/
+baseurl: "/scopeweaver-docs"
+
+aux_links:
+  View Repository: https://github.com/urai-group/scopeweaver-docs/
+
+source: docs
+
+nav:
+  - Home: index.md
